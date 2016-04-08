@@ -6,4 +6,11 @@
         "btc_block": 398078,
         "owner_pubkey": ""
     },
+    {
+        "btc_amount": ,
+        "btc_tx": "",
+        "btc_block": 398078,
+        "owner_pubkey": ""
+    },
 ]
+
