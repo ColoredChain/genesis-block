@@ -1,6 +1,6 @@
 [
     {
-        "btc_amount": 0.5,
+        "btc_amount": #,
         "btc_tx": "#",
         "btc_block": #,
         "owner_pubkey": "#"
