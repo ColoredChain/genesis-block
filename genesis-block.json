@@ -1,8 +1,8 @@
 [
     {
-        "btc_amount": #,
-        "btc_tx": "#",
-        "btc_block": #,
-        "owner_pubkey": "#"
+        "btc_amount": 0.3,
+        "btc_tx": "7d5e67e54bc95a0c2d5519f8599762ce96cd53e869c734b44bbad5aaf74d448b",
+        "btc_block": 408381,
+        "owner_pubkey": "03746d30fa5a010d178048656b20228bcea7306aa07421323c83d1065106509fac"
     }
 ]
