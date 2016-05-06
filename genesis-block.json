@@ -35,4 +35,10 @@
         "btc_block": 409361,
         "owner_pubkey": "04f951119c6c80bf359b59ee96a75050be59df19cbc75e9886af5e056a44fe49e422588a33e1aa3cd31b5bbc18e6ee8335eb63ce56f8bc3fc3b263996c4651e446"
     },
+	{
+        "btc_amount": 1,
+        "btc_tx": "30a85654e769ff3747ea848d9720dfe384ebdb2cd8845b10adf6fc60153a2a71",
+        "btc_block": 410477,
+        "owner_pubkey": "03baa761d302fc309adfee868cd3ddc876acc32a591f42f15a5e63b79d104cc564"
+    },
 ]
